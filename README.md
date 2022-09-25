@@ -47,7 +47,7 @@ You can contribute to this project by accessing my GitHub page.
 [GitHub](https://github.com/TheAnswer07)
 
 ### Links:
-[GitHub App Link](https://theanswer07.github.io/Weather_Dashboard/)
+[GitHub App Link](https://theanswer07.github.io/Weather_Dashboard_App/)
 
 ### Screenshots:
 
